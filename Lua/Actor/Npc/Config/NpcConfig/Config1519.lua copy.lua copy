@@ -1,0 +1,22 @@
+require('Actor/ActorCommon')
+local NpcConfigCommon = require('Actor/Npc/Config/NpcConfigCommon')
+local PatternData = NpcConfigCommon.ActionPattern
+local NPCConfig={}
+
+NPCConfig.Data =
+{
+	NpcId = "1519",
+	Alias= "Npc1519",
+	DayPatterns = {PatternData.Stand},
+	--NightPatterns = {},
+
+	DayStandPosData = 
+	{
+		{
+			{dummypoint=sceneData:GetDummyPoint(3, "Npc1519Born")},
+		},
+    },  
+	--位置坐标，对于巡逻npc为巡逻路径点合集
+}
+
+return NPCConfig
