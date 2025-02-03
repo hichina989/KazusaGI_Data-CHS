@@ -1,0 +1,14 @@
+{
+  "TestMonsterSkin01": 
+  {
+    "$type": "ConfigMonsterSkin",
+	"skinColors":
+	[
+		{
+			"renderer": "hair",
+			"index": 0,
+			"color": "000000FF",
+		},
+	],
+  },
+}

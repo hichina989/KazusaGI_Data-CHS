@@ -1,0 +1,13 @@
+{
+  "talkId": 46611,
+  "dialogList": [
+    {
+      "id": 4661101,
+      "talkRole": {
+        "id": "1009",
+        "type": "TALK_ROLE_NPC"
+      },
+      "talkContent": 1744818147
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+	"actionGroups": {
+		"Default": [
+			{"contextEvent": "BackEvent", "eventType": "MenuBackEvent", "priority": 20},
+			{"contextEvent": "BackingEvent", "eventType": "MenuBackingEvent", "priority": 20},
+			{"contextEvent": "BackingCancelEvent", "eventType": "MenuBackingCancelEvent", "priority": 20},
+			{"contextEvent": "ConfirmEvent", "eventType": "MenuConfirmEvent", "priority": 20},
+			{"contextEvent": "ConfirmingEvent", "eventType": "MenuConfirmingEvent", "priority": 20},
+			{"contextEvent": "ConfirmingCancelEvent", "eventType": "MenuConfirmingCancelEvent", "priority": 20},
+			{"contextEvent": "VisitorLoginEvent", "eventType": "MenuLeftEvent", "priority": 20},
+			{"contextEvent": "SwitchServerLoginEvent", "eventType": "MenuLeftEvent", "priority": 20},
+			{"contextEvent": "MenuNavigationUp", "eventType": "LeftStickUpEvent", "priority": 10, },
+			{"contextEvent": "MenuNavigationDown", "eventType": "LeftStickDownEvent", "priority": 10, },
+			{"contextEvent": "MenuNavigationUp", "eventType": "DPadUpEvent", "priority": 10, },
+			{"contextEvent": "MenuNavigationDown", "eventType": "DPadDownEvent", "priority": 10, },
+		]
+	},
+	"context": {
+		"LoginMainPage": {
+		  "stateActions": {
+			"0": {
+			  "keyboardTouch": "Default",
+			  "keyboardMouse": "Default",
+			  "joypad": "Default"
+			}
+		  },
+		  "enableJoypadVirtualCursor": false
+		},
+		"InfoTextDialog": {
+		  "stateActions": {
+			"0": {
+			  "keyboardTouch": "Default",
+			  "keyboardMouse": "Default",
+			  "joypad": "Default"
+			}
+		  },
+		  "enableJoypadVirtualCursor": false
+		},
+		"ErrorDialog": {
+			"actionGroups": {
+				"Default": [
+					{"contextEvent": "BackEvent", "eventType": "MenuBackEvent", "priority": 1, "nextToHandle": "FrameEnd"},
+					{"contextEvent": "ConfirmEvent", "eventType": "MenuConfirmEvent", "priority": 1, "nextToHandle": "FrameEnd"},
+					{"contextEvent": "ScrollPrimaryScrollerEvent", "eventType": "LeftStickVerticalEvent", "priority": 1}
+				]
+			},
+			"stateActions": {
+				"0": {
+					"keyboardTouch": "Default",
+					"keyboardMouse": "Default",
+					"joypad": "Default"
+				}
+			},
+			"enableJoypadVirtualCursor": false
+		},
+		"DebugLoginDialog": {
+			"enableJoypadVirtualCursor": true
+		}   
+	}
+}

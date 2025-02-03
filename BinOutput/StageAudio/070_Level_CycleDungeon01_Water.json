@@ -1,0 +1,39 @@
+{
+    "id": 70,
+    "stageCreateEvents": [],
+    "stageProgressEvents": [],
+    "stageTeleportEvents": [
+        // {
+        //     "progress": 0.0,
+        //     "events": [
+        //         "Stop_Amb_Dungeon_ElemDungeon_Water",
+        //         "Stop_Music_Dungeon"
+        //     ]
+        // },
+        // {
+        //     "progress": 0.68,
+        //     "events": [
+        //         "Play_Amb_Dungeon_ElemDungeon_Water",
+                
+        //     ]
+        // },
+        // {
+        //     "progress": 1.0,
+        //     "events": [
+                
+        //         "Play_Music_Dungeon"
+        //     ]
+        // },//修复在地下城中死亡后，会重叠播放音乐的问题
+    ],
+    "stageStartEvents": [],
+    "stageMatureEvents": [
+        "Play_Music_Dungeon",
+        "Play_Amb_Dungeon_ElemDungeon_Water"
+    ],
+    "stageExitEvents": [
+        "Stop_Music_Dungeon",
+        "Stop_Amb_Dungeon_ElemDungeon_Water",
+        "State_Music_NonCombat"
+    ],
+    "stateValue": "State_Dungeon_Water"
+}

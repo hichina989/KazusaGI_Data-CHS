@@ -1,0 +1,13 @@
+{
+	"$type": "ConfigInterContainer",
+	"group":
+	[
+		[
+			{
+				"$type": "ConfigEmojiBubbleAction",
+				"type": "EMOJI_BUBBLE",
+				"pattarnName": "EmojiBubble_Lisa_Sad"
+			}
+		]
+	]
+}

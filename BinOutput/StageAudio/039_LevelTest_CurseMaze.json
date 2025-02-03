@@ -1,0 +1,15 @@
+{
+    "id": 39,
+    "stageCreateEvents": [
+        "Play_amb_Dungeon"
+    ],
+    "stageStartEvents": [],
+    "stageMatureEvents": [
+        "Play_Music_Dungeon"
+    ],
+    "stageExitEvents": [
+        "Stop_Music_Dungeon",
+        "Stop_amb_dungeon"
+    ],
+    "stateValue": ""
+}

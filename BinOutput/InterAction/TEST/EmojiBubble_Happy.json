@@ -1,0 +1,19 @@
+{
+	"$type": "ConfigInterContainer",
+	"group":
+	[
+		[
+			{
+				"$type": "ConfigEmojiBubbleAction",
+				"type": "EMOJI_BUBBLE",
+				"delayTime": 0.0,
+				"aliasList": [
+				],
+				"duration": -1.0,
+				"checkNextImmediately": false,
+				"pattarnName": "EmojiBubble_Emoji_Happy",
+				"tryStop": false
+			}
+		]
+	]
+}

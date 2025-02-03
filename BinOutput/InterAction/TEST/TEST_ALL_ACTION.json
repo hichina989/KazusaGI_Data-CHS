@@ -1,0 +1,128 @@
+{
+	"$type": "ConfigInterContainer",
+	"group":
+	[
+		[
+			{
+				"$type": "ConfigSteerInterAction",
+				"type": "STEER_TO",
+				"steerType": "TO_LOCAL_AVATAR",
+				"steerDir": {"x": 0, "y": 0, "z": 0},
+				"duration": 1.0
+			},
+			{
+				"$type": "ConfigCameraMoveInterAction",
+				"type": "CAMERA_MOVE",
+				"cameraPosType": "RELATIVE_POS_TO_INTEE",
+				"camPosOffset": {"x": 0, "y": 1.5, "z": 1.5},
+				"nearLength": 0,
+				"camTargetType": "TO_INTEE",
+				"camForwardTargetOffset": {"x": 0, "y": 1.1, "z": 0},
+				"duration": 1.0,
+				"lerpRatio": 5.0,
+				"lerpPattern": 0,
+				"storyDither": true
+			}
+		],
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG",
+				"dialogType": "LOCK_FRAME",
+				"talkerName": "阿三",
+				"content": "我其实说的话跟字幕可能是对不上的"
+            },
+            {
+				"$type": "ConfigBodyLangInterAction",
+				"type": "BODY_LANG",
+				"bodyLangParam": 0
+			}
+		],
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG",
+				"dialogType": "LOCK_FRAME",
+				"talkerName": "阿三",
+				"content": "就是这么吊，你不服不行"
+			}
+        ],
+        [
+			{
+				"$type": "ConfigCutsceneInterAction",
+				"type": "CUTSCENE",
+				"cutsceneCfg":
+				{
+					"$type": "ConfigTimeline",
+					"type": "TIME_LINE_PREFAB",
+					"roleSheetPath": "",
+					"resPath": "ART/Cutscene/Cs_MD_MQ1_Cutscene01",
+					"startPosType": "RELATIVE_TO_LOCAL_AVATAR",
+					"startOffset": {"x": 0, "y": 3, "z": 0}
+				}
+			}
+        ],
+        [
+            {
+              "$type": "ConfigAudioStateInterAction",
+              "type": "SOUND",
+              "stateGroup": "StateGroup_gameState",
+              "state": "State_Explore"
+            }
+        ],
+        // [
+		// 	{
+		// 		"$type": "ConfigShopExchangeInterAction",
+		// 		"type": "SHOP_EXCHANGE",
+		// 		"shopID": 1001
+		// 	}
+        // ],
+		[
+			{
+				"$type": "ConfigGadgetTouchAction",
+				"type": "GADGET_TOUCH"
+			}
+        ],
+        [
+            {
+                "$type": "ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "contextName": "InLevelTeamPage"
+            }
+        ],
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG",
+				"dialogType": "LOCK_FRAME",
+				"talkerName": "阿三",
+				"content": "然后我就循环了"
+			}
+		],
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG_FINISH"
+			},
+			{
+				"$type": "ConfigSteerInterAction",
+				"type": "STEER_TO",
+				"steerType": "RETURN",
+				"steerDir": {"x": 0, "y": 0, "z": 0},
+				"duration": 1.0
+			},
+			{
+				"$type": "ConfigCameraMoveInterAction",
+				"type": "CAMERA_MOVE",
+				"cameraPosType": "EXIT",
+				"camPosOffset": {"x": 0, "y": 0, "z": 0},
+				"nearLength": 0,
+				"camTargetType": "TO_INTEE",
+				"camForwardTargetOffset": {"x": 0, "y": 0, "z": 0},
+				"duration": 2.0,
+				"lerpRatio": 5.0,
+				"lerpPattern": 0
+			}
+		]
+	]
+}

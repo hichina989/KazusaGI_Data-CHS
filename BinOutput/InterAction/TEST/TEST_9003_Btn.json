@@ -1,0 +1,59 @@
+{
+	"$type": "ConfigInterContainer",
+	"group":
+	[
+		[
+			{
+				"$type": "ConfigSteerInterAction",
+				"type": "STEER_TO",
+				"steerType": "TO_LOCAL_AVATAR",
+				"steerDir": {"x": 0.5, "y": 0, "z": 0.5},
+				"duration": 1.0
+			},
+			{
+				"$type": "ConfigCameraMoveInterAction",
+				"type": "CAMERA_MOVE",
+				"cameraPosType": "RELATIVE_TO_INTER",
+				"camPosOffset": {"x": 0, "y": 0.2, "z": 0},
+				"nearLength": 2,
+				"camTargetType": "TO_INTEE",
+				"camForwardTargetOffset": {"x": 0, "y": 0.8, "z": 0},
+				"duration": 1.0,
+				"lerpRatio": 5.0,
+				"lerpPattern": 1
+			},
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG",
+				"dialogType": "LOCK_FRAME",
+				"talkerName": "X姆03",
+				"content": "我对话时候也可以不看着你就看着远方装逼"
+			}
+		],
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG_FINISH"
+			},
+			{
+				"$type": "ConfigSteerInterAction",
+				"type": "STEER_TO",
+				"steerType": "FREE",
+				"steerDir": {"x": 0, "y": 0, "z": 1},
+				"duration": 2.5
+			},
+			{
+				"$type": "ConfigCameraMoveInterAction",
+				"type": "CAMERA_MOVE",
+				"cameraPosType": "EXIT",
+				"camPosOffset": {"x": 0, "y": 0, "z": 0},
+				"nearLength": 0,
+				"camTargetType": "TO_INTEE",
+				"camForwardTargetOffset": {"x": 0, "y": 0, "z": 0},
+				"duration": 1.0,
+				"lerpRatio": 5.0,
+				"lerpPattern": 1
+			}
+		]
+	]
+}

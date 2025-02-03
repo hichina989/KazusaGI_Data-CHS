@@ -1,0 +1,36 @@
+{
+	"$type": "ConfigInterContainer",
+	"group":
+	[
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG",
+				"dialogType": "BUBBLE",
+				"talkerName": "X姆02",
+				"content": "不喜欢？那滚吧！",
+				"duration": 5.0
+			}
+		],
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG",
+				"dialogType": "BUBBLE",
+				"talkerName": "X姆02",
+				"content": "愁死了，钱包掉了，妈卖批！",
+				"duration": 5.0
+			}
+		],
+		[
+			{
+				"$type": "ConfigDialogInterAction",
+				"type": "DIALOG",
+				"dialogType": "BUBBLE",
+				"talkerName": "X姆02",
+				"content": "愁死了，钱包又掉了，妈卖批！#######",
+				"duration": 5.0
+			}
+		]
+	]
+}

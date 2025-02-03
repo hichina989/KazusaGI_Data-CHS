@@ -1,0 +1,17 @@
+{
+	"$type": "ConfigInterContainer",
+	"group":
+	[
+		[
+			{
+				"$type": "ConfigBlackScreenAction",
+				"type": "BLACK_SCREEN",
+				"blackScreenType": "TO_KEEP_FROM_BLACK",
+				"durationToBlack": 1.0,
+                "durationKeepBlack": 1.0,
+                "durationFromBlack": 1.0,
+				"changeToInteePos": false
+			}
+		]
+	]
+}
