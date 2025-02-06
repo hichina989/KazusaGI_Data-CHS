@@ -1,0 +1,5084 @@
+[
+  {
+    "level": 1,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 4.8929138183594
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 1
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 5.6610717773438
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 4.8394818305969
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 1.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0112359523773
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 1.7999999523163
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 6.9134278297424
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 4.9681968688965
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 1.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0224720239639
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 2.7999999523163
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 8.2739248275757
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 5.1986908912659
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0337079763412
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.0100002288818
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 9.7413873672485
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 5.4967269897461
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 2.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0449440479279
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 11.317211151123
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 5.8420472145081
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 2.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0561800003052
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 13.0025768280029
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 6.227795124054
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 3
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0674159526825
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 13.8462896347046
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 6.5596690177917
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 3.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0786520242691
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 15.1614398956299
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 6.9181261062622
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 3.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.0898879766464
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 17.9215240478516
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 7.3916759490967
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 4
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.101124048233
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 11,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 20.0027961730957
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 7.9686841964722
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 4.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1123600006104
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 12,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 22.1905918121338
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 8.5748405456543
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 4.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1235959529877
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 13,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 24.4892520904541
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 9.210280418396
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 5
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1348309516907
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 14,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 27.0109691619873
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 9.908616065979
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 5.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1460670232773
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 15,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 29.6481151580811
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 10.6380481719971
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 5.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1573029756546
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 16,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 35.0636024475098
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 11.3991069793701
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 6
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1685390472412
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 17,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 39.1657104492188
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 12.6052722930908
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 6.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1797749996185
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 18,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 42.8271484375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 13.8409852981567
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 6.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.1910109519958
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 19,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 46.6043128967285
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 15.1062459945679
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 7
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.2022470235825
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 20,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 51.4656944274902
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 16.2100143432617
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 7.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.2134829759598
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 21,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 55.4682693481445
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 17.5090236663818
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 7.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.2247190475464
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 22,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 59.5674324035645
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 18.8339080810547
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 8
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.2359549999237
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 23,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 63.538501739502
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 20.1470718383789
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 8.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.247190952301
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 24,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 68.5626449584961
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 21.4851818084717
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 8.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.2584270238876
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 25,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 72.8389282226563
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 22.8483276367188
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 9
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.269662976265
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 26,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 82.0888519287109
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 23.6320323944092
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 9.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.2808990478516
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 27,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 86.6157989501953
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 24.4091033935547
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 9.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.2921350002289
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 28,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 91.2652359008789
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 25.202184677124
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 10
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.3033709526062
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 29,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 96.0396041870117
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 26.011323928833
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 10.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.3146070241928
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 30,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 104.2031784057617
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 26.6519813537598
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 10.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.3258429765701
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 31,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 114.5095672607422
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 27.4716911315918
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 11
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.3370790481567
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 32,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 120.0954055786133
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 28.3016624450684
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 11.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.3483150005341
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 33,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 124.6096878051758
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 29.1417198181152
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 11.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.3595509529114
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 34,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 129.5150909423828
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 30.0671443939209
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 12
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.370787024498
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 35,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 134.1456146240234
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 30.9304237365723
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 12.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.382022023201
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 36,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 142.3375244140625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 32.1750259399414
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 12.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.3932579755783
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 37,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 151.5811309814453
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 34.3096694946289
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 13
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4044940471649
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 38,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 161.4940338134766
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 36.6000099182129
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 13.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4157299995422
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 39,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 171.6105651855469
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 38.9321937561035
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 13.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4269659519196
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 40,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 188.2434539794922
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 41.2479209899902
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 14
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4382020235062
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 41,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 198.9501647949219
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 43.6079254150391
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 14.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4494379758835
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 42,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 209.8870697021484
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 46.0122985839844
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 14.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4606740474701
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 43,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 220.6966247558594
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 48.3775215148926
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 15
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4719099998474
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 44,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 244.5349731445313
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 50.8350563049316
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 15.3333330154419
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4831459522247
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 45,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 252.1581268310547
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 52.8666381835938
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 15.6666669845581
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.4943820238113
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 46,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 271.1842651367188
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 54.3167915344238
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 16
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5056179761887
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 47,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 283.7952880859375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 55.6628189086914
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 16.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5168540477753
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 48,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 297.0606689453125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 57.1680374145508
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 16.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5280900001526
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 49,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 310.7151184082031
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 58.704662322998
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 17
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5393259525299
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 50,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 337.9179992675781
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 60.9493522644043
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 17.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5505620241165
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 51,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 353.666015625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 62.9272804260254
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 17.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5617979764938
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 52,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 393.3442993164063
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 65.0240173339844
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 18
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5730340480804
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 53,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 411.0521240234375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 67.2241668701172
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 18.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5842700004578
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 54,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 428.9826965332031
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 69.4497985839844
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 18.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.5955059528351
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 55,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 449.1430969238281
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 71.2912673950195
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 19
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.6067420244217
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 56,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 464.5409240722656
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 73.1513214111328
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 19.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.617977976799
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 57,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 484.9783630371094
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 77.0784225463867
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 19.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.629212975502
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 58,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 504.7872619628906
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 80.9229507446289
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 20
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.6404490470886
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 59,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 522.163818359375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 84.2969741821289
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 20.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.6516849994659
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 60,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 579.7335205078125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 87.7974624633789
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 20.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.6629209518433
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 61,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 619.5738525390625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 91.2549133300781
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 21
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.6741570234299
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 62,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 638.9570922851563
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 94.5672760009766
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 21.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.6853929758072
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 63,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 659.76513671875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 98.1218185424805
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 21.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.6966290473938
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 64,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 677.333251953125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 101.9255599975586
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 22
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.7078649997711
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 65,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 699.2864990234375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 106.5669250488281
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 22.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.7191009521484
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 66,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 715.5745239257813
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 108.8566436767578
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 22.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.730337023735
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 67,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 733.3678588867188
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 111.3869857788086
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 23
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.7415729761124
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 68,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 781.0554809570313
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 113.8490371704102
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 23.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.752809047699
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 69,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 800.1727905273438
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 116.4463424682617
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 23.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.7640450000763
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 70,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 839.4929809570313
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 119.0720062255859
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 24
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.7752809524536
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 71,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 865.2449951171875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 121.7262954711914
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 24.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.7865170240402
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 72,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 891.4190063476563
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 124.419807434082
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 24.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.7977529764175
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 73,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 916.5396118164063
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 126.9272842407227
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 25
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8089890480042
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 74,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 936.5228271484375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 128.6477355957031
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 25.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8202250003815
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 75,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 955.9158325195313
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 130.3862762451172
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 25.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8314609527588
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 76,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1077.0650634765625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 135.0709533691406
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 26
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8426970243454
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 77,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1123.90087890625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 142.5579376220703
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 26.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8539329767227
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 78,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1170.0323486328125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 149.9602813720703
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 26.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8651690483093
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 79,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1217.0701904296875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 157.4989318847656
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 27
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8764040470123
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 80,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1257.6201171875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 165.1731719970703
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 27.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.8876399993896
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 81,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1328.7191162109375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 172.7388153076172
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 27.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.898875951767
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 82,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1372.2694091796875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 180.4309997558594
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 28
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9101120233536
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 83,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1416.7109375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 188.2493438720703
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 28.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9213479757309
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 84,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1529.7130126953125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 196.4338226318359
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 28.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9325840473175
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 85,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1550.0614013671875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 201.2171325683594
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 29
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9438199996948
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 86,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1568.234130859375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 202.6517181396484
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 29.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9550559520721
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 87,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1586.4034423828125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 204.0802764892578
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 29.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9662920236588
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 88,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1604.2962646484375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 205.5380401611328
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 30
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9775279760361
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 89,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1620.8470458984375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 207.0251617431641
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 30.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 1.9887640476227
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 90,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1767.3109130859375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 208.7971496582031
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 30.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 91,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1861.0570068359375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 209.8728332519531
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 31
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 92,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1878.6295166015625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 210.4443969726563
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 31.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 93,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1896.3001708984375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 211.0222015380859
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 31.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 94,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1914.0692138671875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 211.6059875488281
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 32
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 95,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1931.9376220703125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 212.195556640625
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 32.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 96,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1949.905517578125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 212.7907867431641
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 32.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 97,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1967.9736328125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 213.3914489746094
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 33
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 98,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 1986.142578125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 213.9974365234375
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 33.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 99,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2004.4129638671875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 214.6085968017578
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 33.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 100,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2022.78515625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 215.2247009277344
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 34
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 101,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2041.259765625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 215.8456726074219
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 34.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 102,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2059.83740234375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 216.4713745117188
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 34.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 103,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2078.518310546875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 217.1016082763672
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 35
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 104,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2097.3037109375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 217.7362823486328
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 35.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 105,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2116.193359375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 218.3753051757813
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 35.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 106,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2135.1884765625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 219.0185394287109
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 36
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 107,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2154.289306640625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 219.6658325195313
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 36.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 108,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2173.496337890625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 220.3170928955078
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 36.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 109,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2192.810302734375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 220.9722290039063
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 37
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 110,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2212.2314453125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 221.631103515625
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 37.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 111,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2231.7607421875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 222.2936553955078
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 37.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 112,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2251.3984375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 222.9597930908203
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 38
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 113,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2271.145263671875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 223.6293792724609
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 38.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 114,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2291.001708984375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 224.3023681640625
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 38.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 115,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2310.968017578125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 224.9786376953125
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 39
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 116,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2331.045166015625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 225.6580810546875
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 39.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 117,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2351.233642578125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 226.3407135009766
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 39.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 118,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2371.533935546875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 227.0263671875
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 40
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 119,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2391.9462890625
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 227.7150115966797
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 40.3333320617676
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 120,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 2412.471923828125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 228.4065399169922
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 40.6666679382324
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  },
+  {
+    "level": 200,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP",
+        "arith": "ARITH_MULTI",
+        "value": 3247.9296875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK",
+        "arith": "ARITH_MULTI",
+        "value": 229.8054656982422
+      },
+      {
+        "type": "GROW_CURVE_DEFENSE",
+        "arith": "ARITH_MULTI",
+        "value": 67.3333358764648
+      },
+      {
+        "type": "GROW_CURVE_STRIKE",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_STRIKE_HURT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_ELEMENT",
+        "arith": "ARITH_ADD"
+      },
+      {
+        "type": "GROW_CURVE_KILL_EXP",
+        "arith": "ARITH_MULTI",
+        "value": 2
+      },
+      {
+        "type": "GROW_CURVE_HP_LITTLEMONSTER",
+        "arith": "ARITH_MULTI",
+        "value": 4.5173001289368
+      }
+    ]
+  }
+]

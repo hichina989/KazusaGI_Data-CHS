@@ -1,0 +1,2252 @@
+[
+  {
+    "level": 1,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.0729999542236
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.0729999542236
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.0750000476837
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.0750000476837
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.1469999551773
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.1469999551773
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.1499999761581
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.1499999761581
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.2200000286102
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.2200000286102
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.2250000238419
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.2250000238419
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.2940000295639
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.2940000295639
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.2999999523163
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.2999999523163
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.3669999837875
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.3669999837875
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.375
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.4409999847412
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.4409999847412
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.4500000476837
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.4500000476837
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.5140000581741
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.5140000581741
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.5249999761581
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.5249999761581
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.5880000591278
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.5880000591278
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.6000000238419
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.6000000238419
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.6610000133514
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.6610000133514
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.6749999523163
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.6749999523163
+      }
+    ]
+  },
+  {
+    "level": 11,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.7350000143051
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.7350000143051
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.75
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.75
+      }
+    ]
+  },
+  {
+    "level": 12,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.8079999685287
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.8079999685287
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.8250000476837
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.8250000476837
+      }
+    ]
+  },
+  {
+    "level": 13,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.8819999694824
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.8819999694824
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.8999999761581
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.8999999761581
+      }
+    ]
+  },
+  {
+    "level": 14,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.9550000429153
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 1.9550000429153
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.9750000238419
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 1.9750000238419
+      }
+    ]
+  },
+  {
+    "level": 15,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.029000043869
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.029000043869
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.0499999523163
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.0499999523163
+      }
+    ]
+  },
+  {
+    "level": 16,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.1019999980927
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.1019999980927
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.125
+      }
+    ]
+  },
+  {
+    "level": 17,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.1760001182556
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.1760001182556
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.2000000476837
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.2000000476837
+      }
+    ]
+  },
+  {
+    "level": 18,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.2490000724792
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.2490000724792
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.2750000953674
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.2750000953674
+      }
+    ]
+  },
+  {
+    "level": 19,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.3229999542236
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.3229999542236
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.3499999046326
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.3499999046326
+      }
+    ]
+  },
+  {
+    "level": 20,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.3959999084473
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.3959999084473
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.4249999523163
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.4249999523163
+      }
+    ]
+  },
+  {
+    "level": 21,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.4779999256134
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.4779999256134
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.5099999904633
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.5099999904633
+      }
+    ]
+  },
+  {
+    "level": 22,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.5599999427795
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.5599999427795
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.595999956131
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.595999956131
+      }
+    ]
+  },
+  {
+    "level": 23,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.6410000324249
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.6410000324249
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.680999994278
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.680999994278
+      }
+    ]
+  },
+  {
+    "level": 24,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.7230000495911
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.7230000495911
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.7669999599457
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.7669999599457
+      }
+    ]
+  },
+  {
+    "level": 25,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.8050000667572
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.8050000667572
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.8519999980927
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.8519999980927
+      }
+    ]
+  },
+  {
+    "level": 26,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.8870000839233
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.8870000839233
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.9370000362396
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 2.9370000362396
+      }
+    ]
+  },
+  {
+    "level": 27,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.9679999351501
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 2.9679999351501
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.0230000019073
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.0230000019073
+      }
+    ]
+  },
+  {
+    "level": 28,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.0499999523163
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.0499999523163
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.1080000400543
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.1080000400543
+      }
+    ]
+  },
+  {
+    "level": 29,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.1319999694824
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.1319999694824
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.194000005722
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.194000005722
+      }
+    ]
+  },
+  {
+    "level": 30,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.2139999866486
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.2139999866486
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.279000043869
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.279000043869
+      }
+    ]
+  },
+  {
+    "level": 31,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.2950000762939
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.2950000762939
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.364000082016
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.364000082016
+      }
+    ]
+  },
+  {
+    "level": 32,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.3770000934601
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.3770000934601
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.4500000476837
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.4500000476837
+      }
+    ]
+  },
+  {
+    "level": 33,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.4590001106262
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.4590001106262
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.5350000858307
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.5350000858307
+      }
+    ]
+  },
+  {
+    "level": 34,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.5409998893738
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.5409998893738
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.6210000514984
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.6210000514984
+      }
+    ]
+  },
+  {
+    "level": 35,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.6219999790192
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.6219999790192
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.7060000896454
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.7060000896454
+      }
+    ]
+  },
+  {
+    "level": 36,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.7039999961853
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.7039999961853
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.7909998893738
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.7909998893738
+      }
+    ]
+  },
+  {
+    "level": 37,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.7860000133514
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.7860000133514
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.8770000934601
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.8770000934601
+      }
+    ]
+  },
+  {
+    "level": 38,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.8680000305176
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.8680000305176
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.9619998931885
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 3.9619998931885
+      }
+    ]
+  },
+  {
+    "level": 39,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.9489998817444
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 3.9489998817444
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.0479998588562
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.0479998588562
+      }
+    ]
+  },
+  {
+    "level": 40,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.0310001373291
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.0310001373291
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.1329998970032
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.1329998970032
+      }
+    ]
+  },
+  {
+    "level": 41,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.125
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.125
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.2329998016357
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.2329998016357
+      }
+    ]
+  },
+  {
+    "level": 42,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.2179999351501
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.2179999351501
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.3330001831055
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.3330001831055
+      }
+    ]
+  },
+  {
+    "level": 43,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.311999797821
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.311999797821
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.433000087738
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.433000087738
+      }
+    ]
+  },
+  {
+    "level": 44,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.4050002098083
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.4050002098083
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.5339999198914
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.5339999198914
+      }
+    ]
+  },
+  {
+    "level": 45,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.4990000724792
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.4990000724792
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.6339998245239
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.6339998245239
+      }
+    ]
+  },
+  {
+    "level": 46,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.5920000076294
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.5920000076294
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.7340002059937
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.7340002059937
+      }
+    ]
+  },
+  {
+    "level": 47,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.6859998703003
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.6859998703003
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.8340001106262
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.8340001106262
+      }
+    ]
+  },
+  {
+    "level": 48,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.7789998054504
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.7789998054504
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.9340000152588
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 4.9340000152588
+      }
+    ]
+  },
+  {
+    "level": 49,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.8730001449585
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.8730001449585
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.0339999198914
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.0339999198914
+      }
+    ]
+  },
+  {
+    "level": 50,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.9660000801086
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 4.9660000801086
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.1350002288818
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.1350002288818
+      }
+    ]
+  },
+  {
+    "level": 51,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.0599999427795
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.0599999427795
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.2350001335144
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.2350001335144
+      }
+    ]
+  },
+  {
+    "level": 52,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.1529998779297
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.1529998779297
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.335000038147
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.335000038147
+      }
+    ]
+  },
+  {
+    "level": 53,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.2470002174377
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.2470002174377
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.4349999427795
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.4349999427795
+      }
+    ]
+  },
+  {
+    "level": 54,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.3400001525879
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.3400001525879
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.5349998474121
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.5349998474121
+      }
+    ]
+  },
+  {
+    "level": 55,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.4340000152588
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.4340000152588
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.6350002288818
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.6350002288818
+      }
+    ]
+  },
+  {
+    "level": 56,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.5269999504089
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.5269999504089
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.7350001335144
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.7350001335144
+      }
+    ]
+  },
+  {
+    "level": 57,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.6209998130798
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.6209998130798
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.8359999656677
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.8359999656677
+      }
+    ]
+  },
+  {
+    "level": 58,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.7140002250671
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.7140002250671
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.9359998703003
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 5.9359998703003
+      }
+    ]
+  },
+  {
+    "level": 59,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.808000087738
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.808000087738
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.0359997749329
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.0359997749329
+      }
+    ]
+  },
+  {
+    "level": 60,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.9010000228882
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 5.9010000228882
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.1360001564026
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.1360001564026
+      }
+    ]
+  },
+  {
+    "level": 61,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.0100002288818
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.0100002288818
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.2550001144409
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.2550001144409
+      }
+    ]
+  },
+  {
+    "level": 62,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.1180000305176
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.1180000305176
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.375
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.375
+      }
+    ]
+  },
+  {
+    "level": 63,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.2270002365112
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.2270002365112
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.4939999580383
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.4939999580383
+      }
+    ]
+  },
+  {
+    "level": 64,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.3359999656677
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.3359999656677
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.6129999160767
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.6129999160767
+      }
+    ]
+  },
+  {
+    "level": 65,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.4450001716614
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.4450001716614
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.731999874115
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.731999874115
+      }
+    ]
+  },
+  {
+    "level": 66,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.5529999732971
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.5529999732971
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.8520002365112
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.8520002365112
+      }
+    ]
+  },
+  {
+    "level": 67,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.6620001792908
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.6620001792908
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.9710001945496
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 6.9710001945496
+      }
+    ]
+  },
+  {
+    "level": 68,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.7709999084473
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.7709999084473
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.0900001525879
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.0900001525879
+      }
+    ]
+  },
+  {
+    "level": 69,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.8790001869202
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.8790001869202
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.2090001106262
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.2090001106262
+      }
+    ]
+  },
+  {
+    "level": 70,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.9879999160767
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 6.9879999160767
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.3289999961853
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.3289999961853
+      }
+    ]
+  },
+  {
+    "level": 71,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.0970001220703
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.0970001220703
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.4479999542236
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.4479999542236
+      }
+    ]
+  },
+  {
+    "level": 72,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.2049999237061
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.2049999237061
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.566999912262
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.566999912262
+      }
+    ]
+  },
+  {
+    "level": 73,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.3140001296997
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.3140001296997
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.6859998703003
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.6859998703003
+      }
+    ]
+  },
+  {
+    "level": 74,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.4229998588562
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.4229998588562
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.8060002326965
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.8060002326965
+      }
+    ]
+  },
+  {
+    "level": 75,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.5320000648499
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.5320000648499
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.9250001907349
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 7.9250001907349
+      }
+    ]
+  },
+  {
+    "level": 76,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.6399998664856
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.6399998664856
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.043999671936
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.043999671936
+      }
+    ]
+  },
+  {
+    "level": 77,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.7490000724792
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.7490000724792
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.1630001068115
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.1630001068115
+      }
+    ]
+  },
+  {
+    "level": 78,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.8579998016357
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.8579998016357
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.2829999923706
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.2829999923706
+      }
+    ]
+  },
+  {
+    "level": 79,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.9660000801086
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 7.9660000801086
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.4020004272461
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.4020004272461
+      }
+    ]
+  },
+  {
+    "level": 80,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.0749998092651
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.0749998092651
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.5209999084473
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.5209999084473
+      }
+    ]
+  },
+  {
+    "level": 81,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.1969995498657
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.1969995498657
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.6569995880127
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.6569995880127
+      }
+    ]
+  },
+  {
+    "level": 82,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.3190002441406
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.3190002441406
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.7930002212524
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.7930002212524
+      }
+    ]
+  },
+  {
+    "level": 83,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.4409999847412
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.4409999847412
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.9289999008179
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 8.9289999008179
+      }
+    ]
+  },
+  {
+    "level": 84,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.5629997253418
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.5629997253418
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.0649995803833
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.0649995803833
+      }
+    ]
+  },
+  {
+    "level": 85,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.6859998703003
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.6859998703003
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.2019996643066
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.2019996643066
+      }
+    ]
+  },
+  {
+    "level": 86,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.8079996109009
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.8079996109009
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.3380002975464
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.3380002975464
+      }
+    ]
+  },
+  {
+    "level": 87,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.9300003051758
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 8.9300003051758
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.4739999771118
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.4739999771118
+      }
+    ]
+  },
+  {
+    "level": 88,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 9.0520000457764
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 9.0520000457764
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.6099996566772
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.6099996566772
+      }
+    ]
+  },
+  {
+    "level": 89,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 9.173999786377
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 9.173999786377
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.746000289917
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.746000289917
+      }
+    ]
+  },
+  {
+    "level": 90,
+    "curveInfos": [
+      {
+        "type": "GROW_CURVE_HP_S4",
+        "arith": "ARITH_MULTI",
+        "value": 9.2959995269775
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S4",
+        "arith": "ARITH_MULTI",
+        "value": 9.2959995269775
+      },
+      {
+        "type": "GROW_CURVE_HP_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.8819999694824
+      },
+      {
+        "type": "GROW_CURVE_ATTACK_S5",
+        "arith": "ARITH_MULTI",
+        "value": 9.8819999694824
+      }
+    ]
+  }
+]
