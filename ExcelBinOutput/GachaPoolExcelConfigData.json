@@ -1,0 +1,1580 @@
+[
+  {
+    "poolRootId": 10001,
+    "itemId": 1016,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1003,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1022,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1030,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1026,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1029,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1006,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1014,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1015,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1020,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1021,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1023,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1024,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1025,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1027,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1031,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1032,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 1034,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 13504,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 13505,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12406,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 13401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 13404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14408,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12305,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 13303,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 11304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 12304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 14306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10001,
+    "itemId": 15306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1016,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1003,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1022,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1030,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1026,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1029,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1006,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1014,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1015,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1020,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1021,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1023,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1024,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1025,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1027,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1031,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1032,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 1034,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 13504,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 13505,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12406,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 13401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 13404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14408,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12305,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 13303,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 11304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 12304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 14306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10002,
+    "itemId": 15306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1016,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1003,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1022,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1030,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1026,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1029,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1006,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1014,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1015,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1020,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1021,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1023,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1024,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1025,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1027,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1031,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 0
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1032,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 1034,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 13504,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 13505,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12406,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 13401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 13404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14408,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12305,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 13303,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 11304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 12304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 14306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 10003,
+    "itemId": 15306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1016,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1003,
+    "itemType": "GACHA_ITEM_AVATAR_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1014,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1020,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1023,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1024,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1027,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1032,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 1034,
+    "itemType": "GACHA_ITEM_AVATAR_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 13504,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 13505,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15501,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15502,
+    "itemType": "GACHA_ITEM_WEAPON_S5",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12406,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 13401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 13404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15401,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15402,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15403,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15404,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14407,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14408,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15405,
+    "itemType": "GACHA_ITEM_WEAPON_S4",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12305,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 13303,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15301,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15302,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 11304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 12304,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 14306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  },
+  {
+    "poolRootId": 20001,
+    "itemId": 15306,
+    "itemType": "GACHA_ITEM_WEAPON_S3",
+    "weight": 100
+  }
+]
