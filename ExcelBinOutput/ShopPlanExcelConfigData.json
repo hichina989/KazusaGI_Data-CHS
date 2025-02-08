@@ -1,0 +1,1109 @@
+[
+  {
+    "Id": 1,
+    "shopType": "SHOP_TYPE_VIRTUAL_SHOP",
+    "goodsId": 1001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 2,
+    "shopType": "SHOP_TYPE_VIRTUAL_SHOP",
+    "goodsId": 1002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 101,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101001,
+    "minPlayerLevel": 4,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 102,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101002,
+    "minPlayerLevel": 4,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 103,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101003,
+    "minPlayerLevel": 4,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 104,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101004,
+    "minPlayerLevel": 4,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 105,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101005,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 106,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101006,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 107,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101007,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 108,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101008,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 110,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101010,
+    "minPlayerLevel": 4,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 111,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101011,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 112,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101012,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 113,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101013,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 114,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101014,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 115,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101015,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 116,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101016,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 117,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101017,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 118,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101018,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 119,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101019,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 120,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101020,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 121,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101021,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 122,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101022,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 123,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101023,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 124,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101024,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 125,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101025,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 126,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101026,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 127,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101027,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 128,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101028,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 129,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101029,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 130,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101030,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 131,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101031,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 132,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101032,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 133,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101033,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 134,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101034,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 135,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101035,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 136,
+    "shopType": "SHOP_TYPE_PAIMON",
+    "goodsId": 101036,
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 201,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 202,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 203,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102003,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 204,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102004,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 205,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102005,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 206,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102006,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 207,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102007,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 208,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102008,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 209,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102009,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 210,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102010,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 211,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102011,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 212,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102012,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 213,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102013,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 214,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102014,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 215,
+    "shopType": "SHOP_TYPE_CITY",
+    "goodsId": 102015,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 251,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102051,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 252,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102052,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 253,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102053,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 254,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102054,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 255,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102055,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 256,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102056,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 257,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102057,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 258,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102058,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 259,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102059,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 260,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102060,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 261,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102061,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 262,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102062,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 263,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102063,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 264,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102064,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 265,
+    "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+    "goodsId": 102065,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 301,
+    "shopType": "SHOP_TYPE_BLACKSMITH",
+    "goodsId": 103001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 302,
+    "shopType": "SHOP_TYPE_BLACKSMITH",
+    "goodsId": 103002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 303,
+    "shopType": "SHOP_TYPE_BLACKSMITH",
+    "goodsId": 103003,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 304,
+    "shopType": "SHOP_TYPE_BLACKSMITH",
+    "goodsId": 103004,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 305,
+    "shopType": "SHOP_TYPE_BLACKSMITH",
+    "goodsId": 103005,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 401,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 402,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 403,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104003,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 404,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104004,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 405,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104005,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 406,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104006,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 407,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104007,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 408,
+    "shopType": "SHOP_TYPE_GROCERY",
+    "goodsId": 104008,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 451,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 452,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 453,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104003,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 454,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104004,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 455,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104005,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 456,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104006,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 457,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104007,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 458,
+    "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+    "goodsId": 104008,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 501,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 502,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 503,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105003,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 504,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105004,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 505,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105005,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 506,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105006,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 507,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105007,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 508,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105008,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 509,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105009,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 510,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105010,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 511,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105011,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 512,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105012,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 513,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105013,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 514,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105014,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 515,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105015,
+    "minPlayerLevel": 15,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 516,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105016,
+    "minPlayerLevel": 20,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 517,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105017,
+    "minPlayerLevel": 25,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 518,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105018,
+    "minPlayerLevel": 30,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 519,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105019,
+    "minPlayerLevel": 35,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 520,
+    "shopType": "SHOP_TYPE_FOOD",
+    "goodsId": 105020,
+    "minPlayerLevel": 40,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 601,
+    "shopType": "SHOP_TYPE_SEA_LAMP",
+    "goodsId": 106001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 602,
+    "shopType": "SHOP_TYPE_SEA_LAMP",
+    "goodsId": 106002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 603,
+    "shopType": "SHOP_TYPE_SEA_LAMP",
+    "goodsId": 106003,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 604,
+    "shopType": "SHOP_TYPE_SEA_LAMP",
+    "goodsId": 106004,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 605,
+    "shopType": "SHOP_TYPE_SEA_LAMP",
+    "goodsId": 106005,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 606,
+    "shopType": "SHOP_TYPE_SEA_LAMP",
+    "goodsId": 106006,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 701,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107001,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 702,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107002,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 703,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107003,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 704,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107004,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 705,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107005,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 706,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107006,
+    "minPlayerLevel": 15,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 707,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107007,
+    "minPlayerLevel": 25,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 708,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107008,
+    "minPlayerLevel": 30,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  },
+  {
+    "Id": 709,
+    "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+    "goodsId": 107009,
+    "minPlayerLevel": 35,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "minShowLevel": 1
+  }
+]
