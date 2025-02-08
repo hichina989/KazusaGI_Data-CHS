@@ -1,0 +1,1286 @@
+[
+  {
+    "id": 1,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220017001,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220008004,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220009003,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_TYPE_MONSTER",
+        "param": [
+          2,
+          2
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          99902,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "logicType": "LOGIC_AND",
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          99902,
+          0
+        ]
+      },
+      {
+        "condType": "DUNGEON_COND_IN_TIME",
+        "param": [
+          60,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          30610,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          30713,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          30803,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220011003,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220014007,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "logicType": "LOGIC_AND",
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          30610,
+          0
+        ]
+      },
+      {
+        "condType": "DUNGEON_COND_IN_TIME",
+        "param": [
+          480,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "logicType": "LOGIC_AND",
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_MONSTER_COUNT",
+        "param": [
+          100,
+          0
+        ]
+      },
+      {
+        "condType": "DUNGEON_COND_IN_TIME",
+        "param": [
+          240,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240001004,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          1010116,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220012007,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "logicType": "LOGIC_OR",
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1002,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          4,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240007003,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          46305,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          38105,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240007003,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220013005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          46510,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          39403,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          35722,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220017001,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1003,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          49006,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          48512,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          48506,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240010007,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          2010151,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          201024010,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "logicType": "LOGIC_AND",
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240014002,
+          0
+        ]
+      },
+      {
+        "condType": "DUNGEON_COND_IN_TIME",
+        "param": [
+          480,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220025005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220026005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220027005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220028005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "logicType": "LOGIC_AND",
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240013002,
+          0
+        ]
+      },
+      {
+        "condType": "DUNGEON_COND_IN_TIME",
+        "param": [
+          480,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220029005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220030005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          101,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          101,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          1100403,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_QUEST",
+        "param": [
+          1020111,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          1,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          220025001,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240009005,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          240008003,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_FINISH_CHALLENGE",
+        "param": [
+          2,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "conds": [
+      {
+        "condType": "DUNGEON_COND_KILL_GROUP_MONSTER",
+        "param": [
+          201032001,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 10001,
+    "cityId": 1,
+    "nextInvestigationIdList": [
+      10002
+    ],
+    "unlockOpenStateType": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE",
+    "rewardId": 450001,
+    "titleTextMapHash": 185388919
+  },
+  {
+    "id": 10002,
+    "cityId": 1,
+    "nextInvestigationIdList": [
+      10003
+    ],
+    "rewardId": 450002,
+    "titleTextMapHash": 997105687
+  },
+  {
+    "id": 10003,
+    "cityId": 1,
+    "nextInvestigationIdList": [],
+    "rewardId": 450003,
+    "titleTextMapHash": 2638738007
+  },
+  {
+    "id": 11001,
+    "cityId": 2,
+    "nextInvestigationIdList": [
+      11002
+    ],
+    "unlockOpenStateType": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
+    "rewardId": 450011,
+    "titleTextMapHash": 4280234895
+  },
+  {
+    "id": 11002,
+    "cityId": 2,
+    "nextInvestigationIdList": [
+      11003
+    ],
+    "rewardId": 450012,
+    "titleTextMapHash": 2549727519
+  },
+  {
+    "id": 11003,
+    "cityId": 2,
+    "nextInvestigationIdList": [],
+    "rewardId": 450013,
+    "titleTextMapHash": 179653831
+  }
+]

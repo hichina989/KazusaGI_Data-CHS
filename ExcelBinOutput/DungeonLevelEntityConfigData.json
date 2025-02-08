@@ -1,0 +1,1142 @@
+[
+  {
+    "clientId": 10000,
+    "id": 1,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 3109256178
+  },
+  {
+    "clientId": 10001,
+    "id": 2,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 3935856410
+  },
+  {
+    "clientId": 10002,
+    "id": 3,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 2165783538
+  },
+  {
+    "clientId": 10003,
+    "id": 4,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Wind",
+    "descTextMapHash": 323728106
+  },
+  {
+    "clientId": 10004,
+    "id": 5,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 749862618
+  },
+  {
+    "clientId": 10005,
+    "id": 6,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Water",
+    "descTextMapHash": 364338386
+  },
+  {
+    "clientId": 10006,
+    "id": 7,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Grass",
+    "descTextMapHash": 2044372618
+  },
+  {
+    "clientId": 10007,
+    "id": 8,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+    "descTextMapHash": 3206664354
+  },
+  {
+    "clientId": 10008,
+    "id": 9,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Electric",
+    "descTextMapHash": 1121743490
+  },
+  {
+    "clientId": 10009,
+    "id": 10,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Fire",
+    "descTextMapHash": 3841742506
+  },
+  {
+    "clientId": 10010,
+    "id": 11,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Wind",
+    "descTextMapHash": 2616124290
+  },
+  {
+    "clientId": 10011,
+    "id": 12,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Ice",
+    "descTextMapHash": 293828714
+  },
+  {
+    "clientId": 10012,
+    "id": 13,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Water",
+    "descTextMapHash": 4052529698
+  },
+  {
+    "clientId": 10013,
+    "id": 14,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Grass",
+    "descTextMapHash": 752183178
+  },
+  {
+    "clientId": 10014,
+    "id": 15,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Rock",
+    "descTextMapHash": 3217463890
+  },
+  {
+    "clientId": 10015,
+    "id": 16,
+    "levelConfigName": "LevelEntity_Heal_Down",
+    "descTextMapHash": 3852311098
+  },
+  {
+    "clientId": 10016,
+    "id": 17,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "descTextMapHash": 199834394
+  },
+  {
+    "clientId": 10017,
+    "id": 18,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "descTextMapHash": 4289104738
+  },
+  {
+    "clientId": 10018,
+    "id": 19,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Wind",
+    "descTextMapHash": 4248143754
+  },
+  {
+    "clientId": 10019,
+    "id": 20,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Ice",
+    "descTextMapHash": 922981514
+  },
+  {
+    "clientId": 10020,
+    "id": 21,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Water",
+    "descTextMapHash": 1658476274
+  },
+  {
+    "clientId": 10021,
+    "id": 22,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Grass",
+    "descTextMapHash": 2869715682
+  },
+  {
+    "clientId": 10022,
+    "id": 23,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Rock",
+    "descTextMapHash": 4162996914
+  },
+  {
+    "clientId": 10023,
+    "id": 24,
+    "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+    "descTextMapHash": 2298797658
+  },
+  {
+    "clientId": 10024,
+    "id": 25,
+    "levelConfigName": "LevelEntity_RangeAttackDamageUp",
+    "descTextMapHash": 2221785706
+  },
+  {
+    "clientId": 10025,
+    "id": 26,
+    "levelConfigName": "LevelEntity_MaleAddHurt",
+    "descTextMapHash": 552046058
+  },
+  {
+    "clientId": 10026,
+    "id": 27,
+    "levelConfigName": "LevelEntity_FemaleAddHurt",
+    "descTextMapHash": 987434674
+  },
+  {
+    "clientId": 10027,
+    "id": 28,
+    "levelConfigName": "LevelEntity_SwordAddHurt",
+    "descTextMapHash": 687548210
+  },
+  {
+    "clientId": 10028,
+    "id": 29,
+    "levelConfigName": "LevelEntity_ClaymoreAddHurt",
+    "descTextMapHash": 1589719226
+  },
+  {
+    "clientId": 10029,
+    "id": 30,
+    "levelConfigName": "LevelEntity_PoleAddHurt",
+    "descTextMapHash": 1216884570
+  },
+  {
+    "clientId": 10030,
+    "id": 31,
+    "levelConfigName": "LevelEntity_CatalystAddHurt",
+    "descTextMapHash": 1042062754
+  },
+  {
+    "clientId": 10031,
+    "id": 32,
+    "levelConfigName": "LevelEntity_BowAddHurt",
+    "descTextMapHash": 3667991738
+  },
+  {
+    "clientId": 10032,
+    "id": 33,
+    "levelConfigName": "LevelEntity_AvatarDot_Fire",
+    "descTextMapHash": 2541895866
+  },
+  {
+    "clientId": 10033,
+    "id": 34,
+    "levelConfigName": "LevelEntity_AvatarDot_Electric",
+    "descTextMapHash": 2012350298
+  },
+  {
+    "clientId": 10034,
+    "id": 35,
+    "levelConfigName": "LevelEntity_AvatarDot_Water",
+    "descTextMapHash": 1246044738
+  },
+  {
+    "clientId": 10035,
+    "id": 36,
+    "levelConfigName": "LevelEntity_AvatarDot_Ice",
+    "descTextMapHash": 990535402
+  },
+  {
+    "clientId": 10036,
+    "id": 37,
+    "levelConfigName": "LevelEntity_AvatarDot_Wind",
+    "descTextMapHash": 3819281194
+  },
+  {
+    "clientId": 10037,
+    "id": 38,
+    "levelConfigName": "LevelEntity_AvatarDot_Rock",
+    "descTextMapHash": 2671028298
+  },
+  {
+    "clientId": 10038,
+    "id": 39,
+    "levelConfigName": "LevelEntity_AvatarDot_Grass",
+    "descTextMapHash": 1663658170
+  },
+  {
+    "clientId": 10039,
+    "id": 40,
+    "levelConfigName": "LevelEntity_RandomThunder",
+    "descTextMapHash": 565097242
+  },
+  {
+    "clientId": 10040,
+    "id": 41,
+    "levelConfigName": "Level_Electric_Test",
+    "descTextMapHash": 2769092058
+  },
+  {
+    "clientId": 10041,
+    "id": 42,
+    "levelConfigName": "Level_Explode_Test",
+    "descTextMapHash": 1176272362
+  },
+  {
+    "clientId": 10042,
+    "id": 43,
+    "levelConfigName": "Level_Superconductor_Test",
+    "descTextMapHash": 3267416482
+  },
+  {
+    "clientId": 10043,
+    "id": 44,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 3994675138
+  },
+  {
+    "clientId": 10044,
+    "id": 45,
+    "levelConfigName": "Level_Stream_Test",
+    "descTextMapHash": 3986163610
+  },
+  {
+    "clientId": 10045,
+    "id": 46,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 2676159698
+  },
+  {
+    "clientId": 10046,
+    "id": 47,
+    "levelConfigName": "Level_Burning_Test",
+    "descTextMapHash": 3059640506
+  },
+  {
+    "clientId": 10047,
+    "id": 48,
+    "levelConfigName": "Level_Swril_Test",
+    "descTextMapHash": 1226662090
+  },
+  {
+    "clientId": 10048,
+    "id": 49,
+    "levelConfigName": "LevelEntity_Avatar_CriticalUp",
+    "descTextMapHash": 2594743074
+  },
+  {
+    "clientId": 10049,
+    "id": 50,
+    "levelConfigName": "LevelEntity_Avatar_CriticalHurtUp",
+    "descTextMapHash": 3994069002
+  },
+  {
+    "clientId": 10050,
+    "id": 51,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 2120603194
+  },
+  {
+    "clientId": 10051,
+    "id": 52,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 471653194
+  },
+  {
+    "clientId": 10052,
+    "id": 53,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 654331522
+  },
+  {
+    "clientId": 10053,
+    "id": 54,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 1870939802
+  },
+  {
+    "clientId": 10054,
+    "id": 55,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 14713746
+  },
+  {
+    "clientId": 10055,
+    "id": 56,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 4005610922
+  },
+  {
+    "clientId": 10056,
+    "id": 57,
+    "levelConfigName": "LevelEntity_Avatar_ChargeEfficiencyDown",
+    "descTextMapHash": 693273602
+  },
+  {
+    "clientId": 10057,
+    "id": 58,
+    "levelConfigName": "LevelEntity_GenerateElemBall",
+    "descTextMapHash": 2662000594
+  },
+  {
+    "clientId": 10058,
+    "id": 59,
+    "levelConfigName": "LevelEntity_Monster_ElementBeHurtDamageDown_All",
+    "descTextMapHash": 2190070890
+  },
+  {
+    "clientId": 10059,
+    "id": 60,
+    "levelConfigName": "LevelEntity_PhysicalAddHurt",
+    "descTextMapHash": 3589382330
+  },
+  {
+    "clientId": 10060,
+    "id": 1000,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 2241943954
+  },
+  {
+    "clientId": 10061,
+    "id": 1000,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "descTextMapHash": 111992362
+  },
+  {
+    "clientId": 10062,
+    "id": 1000,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 313298138
+  },
+  {
+    "clientId": 10063,
+    "id": 1001,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 2574956682
+  },
+  {
+    "clientId": 10064,
+    "id": 1001,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "descTextMapHash": 3841139058
+  },
+  {
+    "clientId": 10065,
+    "id": 1001,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 4067299970
+  },
+  {
+    "clientId": 10066,
+    "id": 1002,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 1938435258
+  },
+  {
+    "clientId": 10067,
+    "id": 1002,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Ice",
+    "descTextMapHash": 2981942066
+  },
+  {
+    "clientId": 10068,
+    "id": 1002,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Wind",
+    "descTextMapHash": 2573579834
+  },
+  {
+    "clientId": 10069,
+    "id": 1003,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 159022466
+  },
+  {
+    "clientId": 10070,
+    "id": 1003,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "descTextMapHash": 2728380970
+  },
+  {
+    "clientId": 10071,
+    "id": 1003,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 3899178122
+  },
+  {
+    "clientId": 10072,
+    "id": 1004,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 1208004866
+  },
+  {
+    "clientId": 10073,
+    "id": 1004,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "descTextMapHash": 1508642602
+  },
+  {
+    "clientId": 10074,
+    "id": 1004,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Water",
+    "descTextMapHash": 2245769674
+  },
+  {
+    "clientId": 10075,
+    "id": 1005,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 1003737266
+  },
+  {
+    "clientId": 10076,
+    "id": 1005,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "descTextMapHash": 162396994
+  },
+  {
+    "clientId": 10077,
+    "id": 1005,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Grass",
+    "descTextMapHash": 3216507194
+  },
+  {
+    "clientId": 10078,
+    "id": 1006,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 2832961706
+  },
+  {
+    "clientId": 10079,
+    "id": 1006,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "descTextMapHash": 878705842
+  },
+  {
+    "clientId": 10080,
+    "id": 1006,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+    "descTextMapHash": 3028267906
+  },
+  {
+    "clientId": 10081,
+    "id": 1007,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Electric",
+    "descTextMapHash": 1765573322
+  },
+  {
+    "clientId": 10082,
+    "id": 1007,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 1681004018
+  },
+  {
+    "clientId": 10083,
+    "id": 1007,
+    "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+    "descTextMapHash": 431441130
+  },
+  {
+    "clientId": 10084,
+    "id": 1008,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Fire",
+    "descTextMapHash": 2658411690
+  },
+  {
+    "clientId": 10085,
+    "id": 1008,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 3530148466
+  },
+  {
+    "clientId": 10086,
+    "id": 1008,
+    "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+    "descTextMapHash": 2635419666
+  },
+  {
+    "clientId": 10087,
+    "id": 1009,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageDown_Ice",
+    "descTextMapHash": 2290386394
+  },
+  {
+    "clientId": 10088,
+    "id": 1009,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 2725887754
+  },
+  {
+    "clientId": 10089,
+    "id": 1009,
+    "levelConfigName": "LevelEntity_RangeAttackDamageUp",
+    "descTextMapHash": 1565370090
+  },
+  {
+    "clientId": 10090,
+    "id": 1010,
+    "levelConfigName": "LevelEntity_Heal_Down",
+    "descTextMapHash": 1342230378
+  },
+  {
+    "clientId": 10091,
+    "id": 1010,
+    "levelConfigName": "LevelEntity_MeleeAttackDamageUp",
+    "descTextMapHash": 285595154
+  },
+  {
+    "clientId": 10092,
+    "id": 1010,
+    "levelConfigName": "LevelEntity_BowAddHurt",
+    "descTextMapHash": 2452293746
+  },
+  {
+    "clientId": 10093,
+    "id": 1100,
+    "levelConfigName": "Level_Explode_Test",
+    "descTextMapHash": 695945138
+  },
+  {
+    "clientId": 10094,
+    "id": 1101,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 1332027362
+  },
+  {
+    "clientId": 10095,
+    "id": 1102,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 3257312394
+  },
+  {
+    "clientId": 10096,
+    "id": 1102,
+    "levelConfigName": "Level_Stream_Test",
+    "descTextMapHash": 3475418714
+  },
+  {
+    "clientId": 10097,
+    "id": 1103,
+    "levelConfigName": "Level_Explode_Test",
+    "descTextMapHash": 314060434
+  },
+  {
+    "clientId": 10098,
+    "id": 1103,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Electric",
+    "descTextMapHash": 1374671218
+  },
+  {
+    "clientId": 10099,
+    "id": 1104,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 3503708706
+  },
+  {
+    "clientId": 10100,
+    "id": 1104,
+    "levelConfigName": "Level_Burning_Test",
+    "descTextMapHash": 3816617762
+  },
+  {
+    "clientId": 10101,
+    "id": 1105,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 832247562
+  },
+  {
+    "clientId": 10102,
+    "id": 1105,
+    "levelConfigName": "Level_Stream_Test",
+    "descTextMapHash": 3475694210
+  },
+  {
+    "clientId": 10103,
+    "id": 1106,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 3894747690
+  },
+  {
+    "clientId": 10104,
+    "id": 1106,
+    "levelConfigName": "Level_Explode_Test",
+    "descTextMapHash": 179739018
+  },
+  {
+    "clientId": 10105,
+    "id": 1107,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 2612942114
+  },
+  {
+    "clientId": 10106,
+    "id": 1108,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 1053407106
+  },
+  {
+    "clientId": 10107,
+    "id": 1108,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 3591149498
+  },
+  {
+    "clientId": 10108,
+    "id": 1109,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 1874715714
+  },
+  {
+    "clientId": 10109,
+    "id": 1109,
+    "levelConfigName": "Level_Swril_Test",
+    "descTextMapHash": 2059614322
+  },
+  {
+    "clientId": 10110,
+    "id": 1110,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 105491298
+  },
+  {
+    "clientId": 10111,
+    "id": 1110,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 3429740770
+  },
+  {
+    "clientId": 10112,
+    "id": 1111,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 4028440834
+  },
+  {
+    "clientId": 10113,
+    "id": 1111,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 2444906650
+  },
+  {
+    "clientId": 10114,
+    "id": 1112,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 3569583354
+  },
+  {
+    "clientId": 10115,
+    "id": 1112,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 2571947322
+  },
+  {
+    "clientId": 10116,
+    "id": 1113,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 2855024690
+  },
+  {
+    "clientId": 10117,
+    "id": 1113,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 3878238466
+  },
+  {
+    "clientId": 10118,
+    "id": 1114,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Ice",
+    "descTextMapHash": 4124797314
+  },
+  {
+    "clientId": 10119,
+    "id": 1114,
+    "levelConfigName": "Level_Superconductor_Test",
+    "descTextMapHash": 1354856090
+  },
+  {
+    "clientId": 10120,
+    "id": 1115,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 164079170
+  },
+  {
+    "clientId": 10121,
+    "id": 1115,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 1636659242
+  },
+  {
+    "clientId": 10122,
+    "id": 1116,
+    "levelConfigName": "Level_Superconductor_Test",
+    "descTextMapHash": 4293122490
+  },
+  {
+    "clientId": 10123,
+    "id": 1116,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 555461666
+  },
+  {
+    "clientId": 10124,
+    "id": 1117,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 291401802
+  },
+  {
+    "clientId": 10125,
+    "id": 1117,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 1107441178
+  },
+  {
+    "clientId": 10126,
+    "id": 1118,
+    "levelConfigName": "Level_Explode_Test",
+    "descTextMapHash": 2449746522
+  },
+  {
+    "clientId": 10127,
+    "id": 1118,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 2270908410
+  },
+  {
+    "clientId": 10128,
+    "id": 1119,
+    "levelConfigName": "Level_Electric_Test",
+    "descTextMapHash": 3383841962
+  },
+  {
+    "clientId": 10129,
+    "id": 1119,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 2395299498
+  },
+  {
+    "clientId": 10130,
+    "id": 1120,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 4056979274
+  },
+  {
+    "clientId": 10131,
+    "id": 1121,
+    "levelConfigName": "Level_Stream_Test",
+    "descTextMapHash": 2662671394
+  },
+  {
+    "clientId": 10132,
+    "id": 1121,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 1015758474
+  },
+  {
+    "clientId": 10133,
+    "id": 1122,
+    "levelConfigName": "Level_Stream_Test",
+    "descTextMapHash": 800231858
+  },
+  {
+    "clientId": 10134,
+    "id": 1122,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 1167520402
+  },
+  {
+    "clientId": 10135,
+    "id": 1122,
+    "levelConfigName": "LevelEntity_ElementBeHurtDamageUp_Fire",
+    "descTextMapHash": 4147304714
+  },
+  {
+    "clientId": 10136,
+    "id": 1123,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 2640963306
+  },
+  {
+    "clientId": 10137,
+    "id": 1123,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 1405883634
+  },
+  {
+    "clientId": 10138,
+    "id": 1124,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 2345998442
+  },
+  {
+    "clientId": 10139,
+    "id": 1124,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Water",
+    "descTextMapHash": 935129274
+  },
+  {
+    "clientId": 10140,
+    "id": 1125,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 991294394
+  },
+  {
+    "clientId": 10141,
+    "id": 1126,
+    "levelConfigName": "Level_Avatar_DefenseDown",
+    "descTextMapHash": 2609563922
+  },
+  {
+    "clientId": 10142,
+    "id": 1126,
+    "levelConfigName": "Level_Swril_Test",
+    "descTextMapHash": 1450993594
+  },
+  {
+    "clientId": 10143,
+    "id": 1127,
+    "levelConfigName": "LevelEntity_PhysicalAddHurt",
+    "descTextMapHash": 2604484714
+  },
+  {
+    "clientId": 10144,
+    "id": 1127,
+    "levelConfigName": "LevelEntity_Avatar_CriticalUp",
+    "descTextMapHash": 1004901490
+  },
+  {
+    "clientId": 10145,
+    "id": 1128,
+    "levelConfigName": "LevelEntity_PhysicalAddHurt",
+    "descTextMapHash": 43431906
+  },
+  {
+    "clientId": 10146,
+    "id": 1128,
+    "levelConfigName": "LevelEntity_Avatar_CriticalUp",
+    "descTextMapHash": 4002078290
+  },
+  {
+    "clientId": 10147,
+    "id": 1129,
+    "levelConfigName": "LevelEntity_PhysicalAddHurt",
+    "descTextMapHash": 2771248346
+  },
+  {
+    "clientId": 10148,
+    "id": 1129,
+    "levelConfigName": "LevelEntity_Avatar_CriticalUp",
+    "descTextMapHash": 1026467626
+  },
+  {
+    "clientId": 10149,
+    "id": 1130,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 3740324946
+  },
+  {
+    "clientId": 10150,
+    "id": 1131,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 2886430042
+  },
+  {
+    "clientId": 10151,
+    "id": 1131,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 1518088634
+  },
+  {
+    "clientId": 10152,
+    "id": 1132,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 3655999154
+  },
+  {
+    "clientId": 10153,
+    "id": 1133,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 3262904722
+  },
+  {
+    "clientId": 10154,
+    "id": 1134,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 614896858
+  },
+  {
+    "clientId": 10155,
+    "id": 1135,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 3198012202
+  },
+  {
+    "clientId": 10156,
+    "id": 1135,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 1498136602
+  },
+  {
+    "clientId": 10157,
+    "id": 1136,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 3497848066
+  },
+  {
+    "clientId": 10158,
+    "id": 1137,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 3462265546
+  },
+  {
+    "clientId": 10159,
+    "id": 1137,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 1215912466
+  },
+  {
+    "clientId": 10160,
+    "id": 1138,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 3003233706
+  },
+  {
+    "clientId": 10161,
+    "id": 1139,
+    "levelConfigName": "LevelEntity_Monster_HpUp",
+    "descTextMapHash": 1058931314
+  },
+  {
+    "clientId": 10162,
+    "id": 1139,
+    "levelConfigName": "LevelEntity_Monster_AttackUp",
+    "descTextMapHash": 3195210154
+  },
+  {
+    "clientId": 10163,
+    "id": 1140,
+    "levelConfigName": "Level_Swril_Test",
+    "descTextMapHash": 1223682442
+  },
+  {
+    "clientId": 10164,
+    "id": 1140,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Wind",
+    "descTextMapHash": 2581676866
+  },
+  {
+    "clientId": 10165,
+    "id": 1141,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 2393611578
+  },
+  {
+    "clientId": 10166,
+    "id": 1141,
+    "levelConfigName": "Level_Electric_Test",
+    "descTextMapHash": 690746482
+  },
+  {
+    "clientId": 10167,
+    "id": 1142,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Rock",
+    "descTextMapHash": 1232894650
+  },
+  {
+    "clientId": 10168,
+    "id": 1142,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 2746461074
+  },
+  {
+    "clientId": 10169,
+    "id": 1142,
+    "levelConfigName": "LevelEntity_ClaymoreAddHurt",
+    "descTextMapHash": 1720410066
+  },
+  {
+    "clientId": 10170,
+    "id": 1143,
+    "levelConfigName": "Level_Stream_Test",
+    "descTextMapHash": 2453463594
+  },
+  {
+    "clientId": 10171,
+    "id": 1143,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Water",
+    "descTextMapHash": 1453373442
+  },
+  {
+    "clientId": 10172,
+    "id": 1143,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 2452733498
+  },
+  {
+    "clientId": 10173,
+    "id": 1144,
+    "levelConfigName": "Level_Superconductor_Test",
+    "descTextMapHash": 227767066
+  },
+  {
+    "clientId": 10174,
+    "id": 1144,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 1726500442
+  },
+  {
+    "clientId": 10175,
+    "id": 1144,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 1975271354
+  },
+  {
+    "clientId": 10176,
+    "id": 1150,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 3101582170
+  },
+  {
+    "clientId": 10177,
+    "id": 1150,
+    "levelConfigName": "Level_Explode_Test",
+    "descTextMapHash": 2243525538
+  },
+  {
+    "clientId": 10178,
+    "id": 1151,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 2619732106
+  },
+  {
+    "clientId": 10179,
+    "id": 1151,
+    "levelConfigName": "Level_Freeze_Test",
+    "descTextMapHash": 3139625826
+  },
+  {
+    "clientId": 10180,
+    "id": 1152,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 3551814986
+  },
+  {
+    "clientId": 10181,
+    "id": 1152,
+    "levelConfigName": "Level_Electric_Test",
+    "descTextMapHash": 3154081794
+  },
+  {
+    "clientId": 10182,
+    "id": 1153,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 1953360890
+  },
+  {
+    "clientId": 10183,
+    "id": 1153,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Ice",
+    "descTextMapHash": 3312564242
+  },
+  {
+    "clientId": 10184,
+    "id": 1153,
+    "levelConfigName": "Level_Melt_Test",
+    "descTextMapHash": 293165154
+  },
+  {
+    "clientId": 10185,
+    "id": 1154,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Fire",
+    "descTextMapHash": 2820874170
+  },
+  {
+    "clientId": 10186,
+    "id": 1154,
+    "levelConfigName": "LevelEntity_ElementAddHurt_Electric",
+    "descTextMapHash": 656061794
+  },
+  {
+    "clientId": 10187,
+    "id": 1154,
+    "levelConfigName": "Level_Explode_Test",
+    "descTextMapHash": 971958506
+  },
+  {
+    "clientId": 10188,
+    "id": 1155,
+    "levelConfigName": "LevelEntity_Avatar_CriticalHurtUp",
+    "descTextMapHash": 3151371634
+  },
+  {
+    "clientId": 10189,
+    "id": 1156,
+    "levelConfigName": "LevelEntity_PhysicalAddHurt",
+    "descTextMapHash": 1690927338
+  }
+]

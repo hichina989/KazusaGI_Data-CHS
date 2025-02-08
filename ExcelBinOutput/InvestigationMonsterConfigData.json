@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "cityId": 1,
+    "monsterId": 23030101,
+    "groupIdList": [
+      133001229,
+      133002243,
+      133003412,
+      133004217
+    ],
+    "rewardList": [
+      112026,
+      112027,
+      112028
+    ],
+    "infoId": 30301,
+    "mapMarkCreateType": "NerverCreate",
+    "mapMarkCreateCondition": {}
+  },
+  {
+    "id": 2,
+    "cityId": 1,
+    "monsterId": 22010201,
+    "groupIdList": [
+      133003095
+    ],
+    "rewardList": [
+      112020,
+      112021,
+      112022
+    ],
+    "infoId": 20102,
+    "mapMarkCreateType": "NerverCreate",
+    "mapMarkCreateCondition": {}
+  },
+  {
+    "id": 3,
+    "cityId": 1,
+    "monsterId": 24010101,
+    "groupIdList": [
+      133003151,
+      133003317,
+      133004131,
+      133007059,
+      133007041
+    ],
+    "rewardList": [
+      112023,
+      112024,
+      112025
+    ],
+    "infoId": 40101,
+    "mapMarkCreateType": "NerverCreate",
+    "mapMarkCreateCondition": {}
+  },
+  {
+    "id": 4,
+    "cityId": 1,
+    "monsterId": 21020101,
+    "groupIdList": [
+      133001100,
+      133001090,
+      133001108,
+      133003315,
+      133003097,
+      133004018,
+      133007145,
+      133007201
+    ],
+    "rewardList": [
+      112014,
+      112015,
+      112016
+    ],
+    "infoId": 10201,
+    "mapMarkCreateType": "NerverCreate",
+    "mapMarkCreateCondition": {}
+  },
+  {
+    "id": 5,
+    "cityId": 1,
+    "monsterId": 20040101,
+    "groupIdList": [
+      133001313
+    ],
+    "rewardList": [
+      113002,
+      104121,
+      104122,
+      104123,
+      104124,
+      104141,
+      104142,
+      104143,
+      104144
+    ],
+    "infoId": 401,
+    "mapMarkCreateType": "ExtraConditions",
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "conditionParam": 25
+    }
+  },
+  {
+    "id": 6,
+    "cityId": 1,
+    "monsterId": 29020102,
+    "groupIdList": [
+      133002259
+    ],
+    "unlockParentQuestId": 454,
+    "rewardList": [
+      113006,
+      113007,
+      113008,
+      104111,
+      104112,
+      104113,
+      104114,
+      104161,
+      104162,
+      104163,
+      104164,
+      104171,
+      104172,
+      104173,
+      104174
+    ],
+    "infoId": 90201,
+    "mapMarkCreateCondition": {}
+  },
+  {
+    "id": 7,
+    "cityId": 1,
+    "monsterId": 20040201,
+    "groupIdList": [
+      133003482
+    ],
+    "rewardList": [
+      113001,
+      104151,
+      104152,
+      104153,
+      104154,
+      104111,
+      104112,
+      104113,
+      104114
+    ],
+    "infoId": 402,
+    "mapMarkCreateType": "ExtraConditions",
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "conditionParam": 25
+    }
+  },
+  {
+    "id": 8,
+    "cityId": 1,
+    "monsterId": 20040301,
+    "groupIdList": [
+      133002271
+    ],
+    "rewardList": [
+      113009,
+      104171,
+      104172,
+      104173,
+      104174,
+      104161,
+      104162,
+      104163,
+      104164
+    ],
+    "infoId": 403,
+    "mapMarkCreateType": "ExtraConditions",
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "conditionParam": 25
+    }
+  },
+  {
+    "id": 9,
+    "cityId": 2,
+    "monsterId": 20040101,
+    "groupIdList": [
+      133104394
+    ],
+    "rewardList": [
+      113002,
+      104121,
+      104122,
+      104123,
+      104124,
+      104141,
+      104142,
+      104143,
+      104144
+    ],
+    "infoId": 401,
+    "mapMarkCreateType": "ExtraConditions",
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "conditionParam": 25
+    }
+  },
+  {
+    "id": 10,
+    "cityId": 2,
+    "monsterId": 20040201,
+    "groupIdList": [
+      133102006
+    ],
+    "rewardList": [
+      113001,
+      104151,
+      104152,
+      104153,
+      104154,
+      104111,
+      104112,
+      104113,
+      104114
+    ],
+    "infoId": 402,
+    "mapMarkCreateType": "ExtraConditions",
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "conditionParam": 25
+    }
+  },
+  {
+    "id": 11,
+    "cityId": 2,
+    "monsterId": 20040301,
+    "groupIdList": [
+      133108020
+    ],
+    "rewardList": [
+      113009,
+      104171,
+      104172,
+      104173,
+      104174,
+      104161,
+      104162,
+      104163,
+      104164
+    ],
+    "infoId": 403,
+    "mapMarkCreateType": "ExtraConditions",
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "conditionParam": 25
+    }
+  },
+  {
+    "id": 12,
+    "cityId": 2,
+    "monsterId": 21020301,
+    "groupIdList": [
+      133103169,
+      133102498,
+      133102485,
+      133103328,
+      133104482,
+      133104266,
+      133104363,
+      133104393,
+      133104351,
+      133104294,
+      133104304
+    ],
+    "rewardList": [
+      112014,
+      112015,
+      112016
+    ],
+    "infoId": 10203,
+    "mapMarkCreateType": "NerverCreate",
+    "mapMarkCreateCondition": {}
+  },
+  {
+    "id": 13,
+    "cityId": 2,
+    "monsterId": 23020101,
+    "groupIdList": [
+      133104438,
+      133102523,
+      133104268,
+      133105259
+    ],
+    "rewardList": [
+      112029,
+      112030,
+      112031
+    ],
+    "infoId": 30201,
+    "mapMarkCreateType": "NerverCreate",
+    "mapMarkCreateCondition": {}
+  },
+  {
+    "id": 14,
+    "cityId": 2,
+    "monsterId": 24010201,
+    "groupIdList": [
+      133108019,
+      133103201,
+      133103325,
+      133103200,
+      133103076,
+      133104439,
+      133105219,
+      133106087,
+      133108019
+    ],
+    "rewardList": [
+      112023,
+      112024,
+      112025
+    ],
+    "infoId": 40102,
+    "mapMarkCreateCondition": {}
+  }
+]

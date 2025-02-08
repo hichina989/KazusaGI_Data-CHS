@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1001,
+    "MaxTakeNum": 1,
+    "takeCost": 3
+  },
+  {
+    "id": 1002,
+    "MaxTakeNum": 5
+  }
+]
