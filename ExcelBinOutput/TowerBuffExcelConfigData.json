@@ -1,0 +1,254 @@
+[
+  {
+    "towerBuffId": 1,
+    "buffId": 970101,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 1508043966,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 2,
+    "buffId": 970103,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 1709785166,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 3,
+    "buffId": 970104,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 4037722246,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 4,
+    "buffId": 970105,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2678391710,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 5,
+    "buffId": 970106,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 1007775254,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 6,
+    "buffId": 970201,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 683652494,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 7,
+    "buffId": 970212,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2002807934,
+    "buffIcon": "UI_Icon_TowerbeginCard_Life"
+  },
+  {
+    "towerBuffId": 8,
+    "buffId": 970203,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 764414278,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 9,
+    "buffId": 970204,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 87304286,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 10,
+    "buffId": 970205,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2256522918,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 11,
+    "buffId": 970206,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 1649998190,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 12,
+    "buffId": 970207,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 3789778150,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 13,
+    "buffId": 970208,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 1790933686,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 14,
+    "buffId": 970209,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 80134334,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 15,
+    "buffId": 970210,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2512438974,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 16,
+    "buffId": 970211,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 3798684990,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 17,
+    "buffId": 970301,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 3596504974,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 18,
+    "buffId": 970401,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2778723806,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 19,
+    "buffId": 970501,
+    "lastingType": "TOWER_BUFF_LASTING_IMMEDIATE",
+    "descTextMapHash": 914805950,
+    "buffIcon": "UI_Icon_TowerbeginCard_Life"
+  },
+  {
+    "towerBuffId": 20,
+    "buffId": 970504,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 1484402526,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 21,
+    "buffId": 970505,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 36214790,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 22,
+    "buffId": 970506,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 346359910,
+    "buffIcon": "UI_Icon_TowerbeginCard_Life"
+  },
+  {
+    "towerBuffId": 23,
+    "buffId": 970507,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 685070254,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 24,
+    "buffId": 970508,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2641987326,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 25,
+    "buffId": 970511,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 76761782,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 26,
+    "buffId": 970512,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 187923982,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 27,
+    "buffId": 970514,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2876242174,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 28,
+    "buffId": 970515,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 387765286,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 29,
+    "buffId": 970517,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2386135854,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 30,
+    "buffId": 970518,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 809801998,
+    "buffIcon": "UI_Icon_TowerbeginCard_Defense"
+  },
+  {
+    "towerBuffId": 31,
+    "buffId": 970519,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 930790262,
+    "buffIcon": "UI_Icon_TowerbeginCard_Life"
+  },
+  {
+    "towerBuffId": 32,
+    "buffId": 970521,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 3376811862,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 34,
+    "buffId": 970523,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 1149236222,
+    "buffIcon": "UI_Icon_TowerbeginCard_Life"
+  },
+  {
+    "towerBuffId": 35,
+    "buffId": 970524,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 209865894,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 36,
+    "buffId": 970525,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 2591273966,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  },
+  {
+    "towerBuffId": 38,
+    "buffId": 970527,
+    "lastingType": "TOWER_BUFF_LASTING_LEVEL",
+    "descTextMapHash": 3810429262,
+    "buffIcon": "UI_Icon_TowerbeginCard_Attack"
+  }
+]
